@@ -62,7 +62,7 @@ This is a web based application developed for florae based website
 
 
 ## Tech Stack 💻-
-- Azure Link:
+- Azure Link: https://nice-flower-0122c6b00.3.azurestaticapps.net
 - HTML
 - CSS
 - JavaScript
