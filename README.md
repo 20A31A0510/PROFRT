@@ -5,7 +5,7 @@ This is a web based application developed for florae based website
 ### This web based florae application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://20a31a0510.github.io/PROFRT/
 
 
 ## Features and Functionalities 😃
