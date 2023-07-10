@@ -6,7 +6,7 @@ This is a web based application developed for florae based website
 
 
 *Project Link*        -        https://20a31a0510.github.io/PROFRT/
-*Project video Link*  -
+*Project video Link*  -        https://youtu.be/84oLiWXbNzA
 
 
 ## Features and Functionalities 😃
